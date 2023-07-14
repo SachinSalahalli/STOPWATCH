@@ -3,7 +3,7 @@ STOPWATCH (HTML CSS and JavaScript)
 
 Your site is live at https://sachinsalahalli.github.io/STOPWATCH/
 
-Project demo video :
+Project  video : https://youtu.be/wTF5WX5hFXU
 
 ABOUT THIS PROJECT-:
 
