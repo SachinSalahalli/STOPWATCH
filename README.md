@@ -1,13 +1,15 @@
 # STOPWATCH
-STOPWATCH (HTML CSS and JavaScript)
+
+🚀 About the Project
+A simple and functional Stopwatch built using React. This stopwatch allows users to start, stop, reset, and track time with precision.
 
 Your site is live at https://sachinsalahalli.github.io/STOPWATCH/
 
 Project  video : https://youtu.be/wTF5WX5hFXU
 
-ABOUT THIS PROJECT-:
-
-1. In this project i have created a simple stopwatch using HTML CSS and JavaScript.
-
-2. In the Stopwatch there are three buttons START, STOP, and RESET for operating the stopwatch.
-
+🛠️ Features
+✔️ Start, Pause, and Reset functionality
+✔️ Lap Time Tracking (if implemented)
+✔️ Clean & Responsive UI
+✔️ Optimized for performance with React Hooks
+✔️ Deployed using GitHub Pages
