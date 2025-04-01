@@ -7,7 +7,7 @@ Your site is live at https://sachinsalahalli.github.io/STOPWATCH/
 
 Project  video : https://youtu.be/wTF5WX5hFXU
 
-🛠️ Features
+## Features
 ✔️ Start, Pause, and Reset functionality
 ✔️ Lap Time Tracking (if implemented)
 ✔️ Clean & Responsive UI
